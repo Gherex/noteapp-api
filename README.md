@@ -100,6 +100,8 @@ http://localhost:8080/api/v1/notes
 | `/api/v1/notes/{id}/archive`   | Archive a note   |
 | `/api/v1/notes/{id}/unarchive` | Unarchive a note |
 
+---
+
 ## 🗂️ Notes
 
 - All responses are in JSON.

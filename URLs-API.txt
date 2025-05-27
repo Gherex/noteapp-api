@@ -1,0 +1,20 @@
+GET "api/v1/notes" -> get all notes
+GET "api/v1/notes?category=Trabajo" -> all notes with category filter
+GET "api/v1/notes/id" -> get note by id
+
+POST "api/v1/notes" -> create a note
+
+DELETE "api/v1/notes/id" -> delete a note
+
+PUT "api/v1/notes/id" -> update a note 
+
+PATCH "api/v1/notes/id/archive" -> to archive a note
+PATCH "api/v1/notes/id/unarchive" -> to unarchive a note
+
+GET "api/v1/notes/archived" -> all archived notes
+GET "api/v1/notes/archived?category=Trabajo" -> all archived notes with category filter
+
+GET "api/v1/notes/active" -> all active notes
+GET "api/v1/notes/active?category=Trabajo" -> all active notes with category filter
+
+GET "api/v1/notes/categories" -> all categories available
