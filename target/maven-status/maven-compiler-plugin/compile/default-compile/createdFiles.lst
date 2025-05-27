@@ -1,0 +1,13 @@
+com\gherex\noteapp\config\WebConfig.class
+com\gherex\noteapp\services\CategoryServiceImpl.class
+com\gherex\noteapp\config\WebConfig$1.class
+com\gherex\noteapp\controllers\CategoryController.class
+com\gherex\noteapp\NoteAppApplication.class
+com\gherex\noteapp\entities\Category.class
+com\gherex\noteapp\entities\Note.class
+com\gherex\noteapp\services\CategoryService.class
+com\gherex\noteapp\services\NoteService.class
+com\gherex\noteapp\repositories\NoteRepository.class
+com\gherex\noteapp\services\NoteServiceImpl.class
+com\gherex\noteapp\controllers\NoteController.class
+com\gherex\noteapp\repositories\CategoryRepository.class

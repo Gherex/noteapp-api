@@ -1,0 +1,12 @@
+D:\Java\Java projects\backend-noteapp\src\main\java\com\gherex\noteapp\config\WebConfig.java
+D:\Java\Java projects\backend-noteapp\src\main\java\com\gherex\noteapp\controllers\CategoryController.java
+D:\Java\Java projects\backend-noteapp\src\main\java\com\gherex\noteapp\controllers\NoteController.java
+D:\Java\Java projects\backend-noteapp\src\main\java\com\gherex\noteapp\entities\Category.java
+D:\Java\Java projects\backend-noteapp\src\main\java\com\gherex\noteapp\entities\Note.java
+D:\Java\Java projects\backend-noteapp\src\main\java\com\gherex\noteapp\NoteAppApplication.java
+D:\Java\Java projects\backend-noteapp\src\main\java\com\gherex\noteapp\repositories\CategoryRepository.java
+D:\Java\Java projects\backend-noteapp\src\main\java\com\gherex\noteapp\repositories\NoteRepository.java
+D:\Java\Java projects\backend-noteapp\src\main\java\com\gherex\noteapp\services\CategoryService.java
+D:\Java\Java projects\backend-noteapp\src\main\java\com\gherex\noteapp\services\CategoryServiceImpl.java
+D:\Java\Java projects\backend-noteapp\src\main\java\com\gherex\noteapp\services\NoteService.java
+D:\Java\Java projects\backend-noteapp\src\main\java\com\gherex\noteapp\services\NoteServiceImpl.java
